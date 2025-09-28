@@ -1,0 +1,6 @@
+{
+  "name": "daffamj/api-php-test",
+  "description": "Simple PHP API project for testing CRUD with Postman",
+  "type": "project",
+  "require": {}
+}
